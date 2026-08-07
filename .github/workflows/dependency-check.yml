@@ -32,4 +32,4 @@ jobs:
 
       - name: Run pip-audit
         run: |
-          pip-audit --fail-on high
+          pip-audit
